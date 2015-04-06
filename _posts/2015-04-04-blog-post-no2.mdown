@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Blog post number 2"
+date:   2015-04-07 
+categories: jekyll update
+---
+
+## Something else ...
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia nihil sit id voluptatum fuga recusandae quidem perferendis vel omnis, porro unde officia illo tenetur ipsa consequatur provident, sint deserunt alias.
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia nihil sit id voluptatum fuga recusandae quidem perferendis vel omnis, porro unde officia illo tenetur ipsa consequatur provident, sint deserunt alias.
